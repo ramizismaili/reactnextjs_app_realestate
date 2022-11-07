@@ -5,14 +5,14 @@ import { BsSearch } from 'react-icons/bs';
 import { FiKey } from 'react-icons/fi';
 
 const Navbar = () => (
-    <Flex p="2" borderBottom="1px" borderColo="gray.100">
-        <Box fontSize="5x1" color="blue.400" fontWeight="bold">
-            <Link href="/" paddingLeft="2">Realtor</Link>
+    <Flex p="2" borderBottom="1px" borderColor="gray.100">
+        <Box fontSize="5xl" color="blue.400" fontWeight="bold">
+            <Link href="/" paddingLeft="2">RealTor</Link>
         </Box>
         <Spacer />
         <Box>
             <Menu>
-                <MenuButton as={IconButton} icon={<FcMenu />} variant="outlined" color="red.400" />
+                <MenuButton as={IconButton} icon={<FcMenu />} fontSize="5xl" variant="outlined" color="red.400" />
                 <MenuList>
                     <Link href="/" passHref>
                         <MenuItem icon={<FcHome />}>Home</MenuItem>
