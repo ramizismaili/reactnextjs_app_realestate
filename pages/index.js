@@ -21,7 +21,7 @@ const Banner = ({
       <Text color="gray.500" fontSize="sm" fontWeight="medium">
         {purpose}
       </Text>
-      <Text fontSize="3x1" fontWeight="bold">
+      <Text fontSize="3xl" fontWeight="bold">
         {title1}
         <br />
         {title2}
@@ -31,7 +31,7 @@ const Banner = ({
         <br />
         {desc2}
       </Text>
-      <Button fontSize="x1">
+      <Button fontSize="xl">
         <Link href={linkName}>{buttonText}</Link>
       </Button>
     </Box>

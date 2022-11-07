@@ -35,6 +35,7 @@ const Property = ({
       <Box>
         <Image
           src={coverPhoto ? coverPhoto.url : DefaultImage}
+          alt="house"
           width={400}
           height={260}
         />
