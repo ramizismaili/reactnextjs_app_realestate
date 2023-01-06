@@ -1,4 +1,12 @@
-https://rismaili-realestate.vercel.app/
+# [Live Site](https://rismaili-realestate.vercel.app/)
+
+Realtor - an Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel, and much more!
+What I learned from this project:
+- React Best Practices
+- Next.js best practices, static generation, and server-side rendering
+- Creating a User Interface using #ChakraUI
+- Fetching data from unlimited sources using RapidAPI
+
 ![f2422200-3400-44e4-85be-08004239a7c3](https://user-images.githubusercontent.com/101756045/200621789-8689422e-dd53-40e7-ba41-83bd402adaa5.png)
 
 
